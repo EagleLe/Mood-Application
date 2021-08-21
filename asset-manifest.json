@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mood-Application/static/css/main.a617e044.chunk.css",
+    "main.js": "/Mood-Application/static/js/main.3aa46f18.chunk.js",
+    "main.js.map": "/Mood-Application/static/js/main.3aa46f18.chunk.js.map",
+    "runtime-main.js": "/Mood-Application/static/js/runtime-main.34f64102.js",
+    "runtime-main.js.map": "/Mood-Application/static/js/runtime-main.34f64102.js.map",
+    "static/js/2.8341813f.chunk.js": "/Mood-Application/static/js/2.8341813f.chunk.js",
+    "static/js/2.8341813f.chunk.js.map": "/Mood-Application/static/js/2.8341813f.chunk.js.map",
+    "static/js/3.092d75ab.chunk.js": "/Mood-Application/static/js/3.092d75ab.chunk.js",
+    "static/js/3.092d75ab.chunk.js.map": "/Mood-Application/static/js/3.092d75ab.chunk.js.map",
+    "index.html": "/Mood-Application/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Mood-Application/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8341813f.chunk.js.LICENSE.txt": "/Mood-Application/static/js/2.8341813f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Mood-Application/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34f64102.js",
+    "static/js/2.8341813f.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.3aa46f18.chunk.js"
+  ]
+}
