@@ -1,0 +1,11 @@
+
+    img {
+        position: abosolute;
+        margin-right: 85%;
+    }
+    
+    header{
+        background-color: whitesmoke ;
+        height: 15vh;
+        border: solid 5px rgb(138, 107, 82);
+    }
