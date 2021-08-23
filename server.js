@@ -1,3 +1,10 @@
+const express = require('express');
+const mongoose = require('mongoose');
+
+const logger = require("morgan");
+//const url = "mongodb://localhost/workout";
+const db=require('./config/config').get(process.env.NODE_ENV);
+
 const app = express();
 
 app.use(logger("dev"));
